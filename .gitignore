@@ -24,3 +24,7 @@ local.properties
 *.ipr
 *.iws
 .idea/
+TipCalcProject/.idea/
+TipCalcProject/*.iml
+TipCalcProject/*.ipr
+TipCalcProject/*.iws
