@@ -1,15 +1,15 @@
 # incremental data. DO NOT EDIT.
 # format is <lastModified> <length> <SHA-1> <path>
 # Encoding is UTF-8
-1370297429000 400 575266692e6bd3ff45b0a15773ae132e2d7fc1b5 /Users/brathod/dev/projects/git-stuff/tip-calc/TipCalcProject/TipCalc/build/classes/debug/com/ratbr/tipcalc/R$layout.class
-1370297429000 390 8aa8fdf7655288ba9e15f569107bd8adb770fbd1 /Users/brathod/dev/projects/git-stuff/tip-calc/TipCalcProject/TipCalc/build/classes/debug/com/ratbr/tipcalc/R$id.class
+1370299202000 400 548e59becf25aacb0385757012c07fb8937f6323 /Users/brathod/dev/projects/git-stuff/tip-calc/TipCalcProject/TipCalc/build/classes/debug/com/ratbr/tipcalc/R$layout.class
+1370299202000 547 145f619edde3e734cf14ed2470531c0e2facade8 /Users/brathod/dev/projects/git-stuff/tip-calc/TipCalcProject/TipCalc/build/classes/debug/com/ratbr/tipcalc/R$id.class
 1370297429000 404 1cd0b05f6834cbc39bf7e2687432a9c8c32fd7de /Users/brathod/dev/projects/git-stuff/tip-calc/TipCalcProject/TipCalc/build/classes/debug/com/ratbr/tipcalc/R$drawable.class
-1370297429000 469 86df60f741eaa700b842764bf26faec1445b3404 /Users/brathod/dev/projects/git-stuff/tip-calc/TipCalcProject/TipCalc/build/classes/debug/com/ratbr/tipcalc/R$string.class
+1370299202000 469 46ab5de0a2beeb9e7d1673f2aabc754e8b508953 /Users/brathod/dev/projects/git-stuff/tip-calc/TipCalcProject/TipCalc/build/classes/debug/com/ratbr/tipcalc/R$string.class
 1370297429000 343 8649cc92f82d993035a932cd6b3fd3f896f8c955 /Users/brathod/dev/projects/git-stuff/tip-calc/TipCalcProject/TipCalc/build/classes/debug/com/ratbr/tipcalc/BuildConfig.class
 1370297429000 815 fdaffe9a7b67c5b86487ecde5b9de60386a8815e /Users/brathod/dev/projects/git-stuff/tip-calc/TipCalcProject/TipCalc/build/classes/debug/com/ratbr/tipcalc/MainActivity.class
-1370297429000 428 e76858ff2b1079d5cb5aa6a9a923deae722f97df /Users/brathod/dev/projects/git-stuff/tip-calc/TipCalcProject/TipCalc/build/classes/debug/com/ratbr/tipcalc/R$style.class
-1370297429000 385 5d105c9bddac0f9254c7fef0c553ee3c8c888615 /Users/brathod/dev/projects/git-stuff/tip-calc/TipCalcProject/TipCalc/build/classes/debug/com/ratbr/tipcalc/R$menu.class
+1370299202000 428 12219482f62d3158dc2b55d604615d5abdac97e5 /Users/brathod/dev/projects/git-stuff/tip-calc/TipCalcProject/TipCalc/build/classes/debug/com/ratbr/tipcalc/R$style.class
+1370299202000 385 95fbd33b2ad4f444e467b42a8386934d547404fd /Users/brathod/dev/projects/git-stuff/tip-calc/TipCalcProject/TipCalc/build/classes/debug/com/ratbr/tipcalc/R$menu.class
 1370297429000 458 ec863fab60ca5049628dddc112a1b2a62d942dae /Users/brathod/dev/projects/git-stuff/tip-calc/TipCalcProject/TipCalc/build/classes/debug/com/ratbr/tipcalc/R$dimen.class
-1370297429000 667 4f951f26ebeb0fb5c648948feb98df8b8cbe3eb8 /Users/brathod/dev/projects/git-stuff/tip-calc/TipCalcProject/TipCalc/build/classes/debug/com/ratbr/tipcalc/R.class
+1370299202000 667 5d50d4aee4ed72cce63ad2f8001e8b0fa8e679de /Users/brathod/dev/projects/git-stuff/tip-calc/TipCalcProject/TipCalc/build/classes/debug/com/ratbr/tipcalc/R.class
 1370297429000 337 f8765c1a98d91e17592ea927a2bdba3fb9b0aeb2 /Users/brathod/dev/projects/git-stuff/tip-calc/TipCalcProject/TipCalc/build/classes/debug/com/ratbr/tipcalc/R$attr.class
 1370297416000 484258 bd6479f5dd592790607e0504e66e0f31c2b4d308 /Users/brathod/dev/projects/git-stuff/tip-calc/TipCalcProject/TipCalc/libs/android-support-v4.jar
