@@ -28,3 +28,5 @@ TipCalcProject/.idea/
 TipCalcProject/*.iml
 TipCalcProject/*.ipr
 TipCalcProject/*.iws
+TipCalcProject/.gradle/
+TipCalcProject/TipCalc/build/
