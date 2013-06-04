@@ -27,7 +27,18 @@ public class MainActivity extends Activity {
 
         //attach action listeners for the buttons.
         Button tenPct = (Button) findViewById(R.id.btnTenPercent);
-        tenPct.setOnClickListener(new View.OnClickListener() {
+        setListenerForPctButtons(tenPct, 0.1f);
+
+        Button fifteenPct = (Button) findViewById(R.id.btnFifteenPercent);
+        setListenerForPctButtons(fifteenPct, 0.15f);
+
+        Button twentyPct = (Button) findViewById(R.id.btnTwentyPercent);
+        setListenerForPctButtons(twentyPct, 0.2f);
+    }
+
+    private void setListenerForPctButtons(final Button button, final float percent) {
+
+        button.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
                 EditText et = (EditText) findViewById(R.id.etCheckAmt);
@@ -38,13 +49,11 @@ public class MainActivity extends Activity {
                 }
 
                 Float checkAmt = Float.parseFloat(checkAmtStr);
-                Float tipAmt = computeTipAmount(checkAmt, 0.1f);
+                Float tipAmt = computeTipAmount(checkAmt,percent);
                 TextView tvTipAmt = (TextView) findViewById(R.id.tvTipAmt);
                 tvTipAmt.setText(DECIMAL_FORMAT.format(tipAmt.doubleValue()));
             }
         });
-
-
     }
 
 
